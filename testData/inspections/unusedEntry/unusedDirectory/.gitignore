@@ -1,7 +1,0 @@
-subdir/
-subdir
-subdir/*
-emptydir/*
-<UNUSED ENTRY descr="'foo' entry is never used">foo</UNUSED ENTRY>
-<UNUSED ENTRY descr="'foo/' entry is never used">foo/</UNUSED ENTRY>
-<UNUSED ENTRY descr="'foo/*' entry is never used">foo/*</UNUSED ENTRY>
